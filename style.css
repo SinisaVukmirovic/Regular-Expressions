@@ -1,0 +1,18 @@
+body {
+    font-family: 'Verdana', serif;
+    background-color: #333;
+    color: #eee;
+}
+
+a {
+    color: cornflowerblue;
+}
+
+table {
+    margin: 1em;
+}
+
+td {
+    min-width: 12rem;
+    padding: .5em;
+}
