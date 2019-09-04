@@ -12,6 +12,10 @@ table {
     margin: 1em;
 }
 
+tr:nth-child(even) {
+    background-color: #444;
+}
+
 td {
     min-width: 12rem;
     padding: .5em;
